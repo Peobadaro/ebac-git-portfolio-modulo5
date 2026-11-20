@@ -1,4 +1,6 @@
-# EBAC – Backend Python – Exercício Módulo 4 (Threads e Processos)
+# Multithreading Web Scraper
+
+Projeto de portfólio criado no curso **Profissão: Desenvolvedor Full Stack Python** da EBAC (módulo de Python avançado: threads e processos).
 
 Web scraper do catálogo de filmes do professor (https://havokkmorands.github.io/movie-catalog/), que substituiu o IMDb por causa dos bloqueios do site.
 
@@ -34,3 +36,8 @@ python multithreading.py        # MAX_THREADS = 10
 python multithreading.py 5      # testa com 5 threads
 python multithreading.py 20     # testa com 20 threads
 ```
+
+## Autor
+
+**Pedro Badaró Ferreira**  
+GitHub: [@Peobadaro](https://github.com/Peobadaro)
